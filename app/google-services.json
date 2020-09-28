@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811244326072",
+    "firebase_url": "https://note-connect.firebaseio.com",
+    "project_id": "note-connect",
+    "storage_bucket": "note-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811244326072:android:448b265c11ad9b95aab84d",
+        "android_client_info": {
+          "package_name": "com.example.noteconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811244326072-ejk84ot8am1l5s3soc5uua5pvim34nae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noteconnect",
+            "certificate_hash": "ff18e39954386b63c34e3eedb02d401a9d6b8191"
+          }
+        },
+        {
+          "client_id": "811244326072-c7ppl389hd1m2c529ugcqtoshn5j2bii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj61MKyp7dJrULYNEvjM2-CyujgdcAfgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811244326072-c7ppl389hd1m2c529ugcqtoshn5j2bii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
